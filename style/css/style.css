@@ -75,6 +75,7 @@ border-left:2px solid black;*/
 
 thead, tbody{
 	color: white;
+	 text-shadow: black 0.1em 0.1em 0.2em;
 	text-align: left;
 }
 body{
