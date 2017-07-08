@@ -1,0 +1,85 @@
+body{
+  background: #f1f1f1;
+  color: #333333;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+
+
+}
+.container{
+    width: 940px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#centro-dist{
+  width: 550px;
+  height: auto;
+background-color: #cecece;
+border: 1px solid grey;
+text-align: center;
+padding: 15px;
+margin: 20px auto ;
+}
+#familia-pelho:hover{
+  background: black;
+  color:white;
+}
+figcaption{
+  margin-top: 10px;
+  text-align: center;
+}
+#familia-pelho{
+  float: right;
+  width: auto;
+
+
+background-color: #cecece;
+border: 1px solid grey;
+
+padding: 15px;
+margin:   10px 20px ;
+}
+
+#titulo{
+  background-image: url(../img/sobre-background.jpg
+);
+color: red;
+padding: 10px;
+}
+h2{
+  margin-top: 30px;
+  border-bottom: 2px solid #333333;
+}
+p{
+  padding: 0 45px;
+  text-indent: 30px;
+
+}
+
+
+#compre-ja{
+  text-align: center;
+  background: lightgrey;
+  border-radius: 50px;
+  padding: 0.5px;
+
+
+}
+#compre-ja:hover{
+  background: lightgreen;
+}
+a:link{
+  text-decoration: none;
+}
+.rodape{
+  background-image: url(../img/fundo-rodape.png);
+  color: white;
+}
+p::first-letter{
+  font-weight: bold;
+}
+h1+p{
+    text-indent: 0;
+}
+p::first-line{
+  font-variant: small-caps;
+}

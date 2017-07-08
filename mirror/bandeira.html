@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <style media="screen">
+
+    .bandeira{
+      background-color: white;
+      border: 1px solid #333;
+      margin: auto;
+      width: 300px;
+      height: 300px;
+      padding: 10px 80px;
+
+    }
+    .bandeira::before{
+      content: "";
+      border: 100px solid red;
+      box-shadow: 10px solid red;
+      border-radius: 50%;
+
+      position: absolute;
+
+
+    }
+
+  </style>
+  <body>
+    <div class="bandeira">
+
+    </div>
+  </body>
+</html>
