@@ -1,0 +1,13 @@
+.menu li:hover{
+
+background-image: url('../img/balance.png');
+    background-repeat: no-repeat;
+    background-position: left; 
+    background: opacity: 0.5;
+}
+
+
+.menu li{
+
+	padding-left: 30px;
+}
