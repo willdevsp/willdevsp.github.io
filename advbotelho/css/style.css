@@ -11,3 +11,18 @@ background-image: url('../img/balance.png');
 
 	padding-left: 30px;
 }
+
+.msg_home, .servicos,.localizacao {
+    text-align: center;
+}
+
+.balance_imobiliary{
+    width: 50%;
+    height: 50%;
+}
+.h3_texto{
+    text-align: left;
+}
+.img_servicos{
+    text-align: center;
+}
