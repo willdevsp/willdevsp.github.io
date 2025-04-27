@@ -19,7 +19,7 @@ body::before {
     left: 0;
     width: 100%;
     height: 100%;
-    background-image: url('img.webp');
+    background-image: url('img/tech.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-blend-mode: overlay;
